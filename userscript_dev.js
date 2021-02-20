@@ -1,0 +1,76 @@
+// ==UserScript==
+// @name oi-helper[dev]
+// @author memset0
+// @description memset0 写的 OI 小助手~
+// @version 0.4.5
+// @license GPL-3.0-only
+// @namespace oi-helper
+// @require file:///home/runner/work/oi-helper/oi-helper/dist/bundle.js
+// @match https://github.com/memset0/oi-helper
+// @match http://www.luogu.org
+// @match https://www.luogu.org
+// @match http://www.luogu.org/*
+// @match https://www.luogu.org/*
+// @match http://www.luogu.com.cn
+// @match https://www.luogu.com.cn
+// @match http://www.luogu.com.cn/*
+// @match https://www.luogu.com.cn/*
+// @match http://loj.ac
+// @match https://loj.ac
+// @match http://loj.ac/*
+// @match https://loj.ac/*
+// @match http://uoj.ac
+// @match https://uoj.ac
+// @match http://uoj.ac/*
+// @match https://uoj.ac/*
+// @match http://vjudge.net
+// @match https://vjudge.net
+// @match http://vjudge.net/*
+// @match https://vjudge.net/*
+// @match http://cn.vjudge.net
+// @match https://cn.vjudge.net
+// @match http://cn.vjudge.net/*
+// @match https://cn.vjudge.net/*
+// @match http://vjudge.z180.cn
+// @match https://vjudge.z180.cn
+// @match http://vjudge.z180.cn/*
+// @match https://vjudge.z180.cn/*
+// @match http://szkopul.edu.pl
+// @match https://szkopul.edu.pl
+// @match http://szkopul.edu.pl/*
+// @match https://szkopul.edu.pl/*
+// @match http://codeforces.com
+// @match https://codeforces.com
+// @match http://codeforces.com/*
+// @match https://codeforces.com/*
+// @match http://codeforces.ml
+// @match https://codeforces.ml
+// @match http://codeforces.ml/*
+// @match https://codeforces.ml/*
+// @match http://codeforc.es
+// @match https://codeforc.es
+// @match http://codeforc.es/*
+// @match https://codeforc.es/*
+// @match http://atcoder.jp
+// @match https://atcoder.jp
+// @match http://atcoder.jp/*
+// @match https://atcoder.jp/*
+// @match http://www.acmicpc.net
+// @match https://www.acmicpc.net
+// @match http://www.acmicpc.net/*
+// @match https://www.acmicpc.net/*
+// @match http://ioihw20.duck-ac.cn
+// @match https://ioihw20.duck-ac.cn
+// @match http://ioihw20.duck-ac.cn/*
+// @match https://ioihw20.duck-ac.cn/*
+// @grant unsafeWindow
+// @grant GM_setValue
+// @grant GM_getValue
+// @grant GM_listValue
+// @grant GM_deleteValue
+// @grant GM_addStyle
+// @grant GM_getResourceText
+// ==/UserScript==
+// ==Notes==
+// 该文件是打包后的代码，源代码请见 https://github.com/memset0/oi-helper qwq~
+// ==/Notes==
